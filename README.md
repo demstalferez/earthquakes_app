@@ -1,6 +1,6 @@
 # Seismic Activity Dashboard
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Seismic+Dashboard+Preview)
+![Dashboard Preview](img\image.jpg)
 
 ## Overview
 
