@@ -1,6 +1,6 @@
 # Seismic Activity Dashboard
 
-![Dashboard Preview](img\image.jpg)
+![Dashboard Preview](img/image.jpg)
 
 ## Overview
 
